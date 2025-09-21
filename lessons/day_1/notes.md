@@ -1,8 +1,9 @@
-<!-- What is playwright? Who owns it? Official website? Areas where playwright shines. -->
 # Introduction
-Playwright is an open-source browser automation and end-to-end (e2e) testing framework. It can also be used for web scraping.  
+Playwright is an open-source browser automation and end-to-end (e2e) testing framework. It can also be used as a general purpose browser automation library for web scraping. Test on Windows, Linux, and macOS, locally or on CI, headless or headed with native mobile emulation.
 
-Playwright was developed and is maintained by Microsoft, but it is open to contributions from the community.
+Playwright was developed and is maintained by Microsoft, but it is open to contributions from the community. 
+
+Read more on official website [playwright](https://playwright.dev/)
 
 Some of the features that set playwright apart from its competitors are: 
 * **Unified API for cross-browser testing:** Playwright provides built-in support for Chromium, Firefox, and WebKit (Safari) browsers out of the box. 
@@ -21,5 +22,12 @@ Some of the features that set playwright apart from its competitors are:
 * [Cypress](https://www.cypress.io/)
 * [Selenium](https://www.selenium.dev/)
 * [BrowserStack](https://www.browserstack.com/)
+
+# Playwright popularity
+Source: [State of JS 2024](https://2024.stateofjs.com/en-US/libraries/testing/)
+![alt text](image.png) 
+
+# Languages supported by playwright
+Playwright supports writing tests in Javascript, Python, Java and .NET
 
 
