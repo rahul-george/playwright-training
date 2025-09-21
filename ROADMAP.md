@@ -11,10 +11,14 @@
     * Arrange-Act-Assert (https://learn.microsoft.com/en-us/training/modules/build-with-playwright/5-understand-test-specification)
 * Day 3
     * locators
-    * Exercise by filling a login page
+    * Exercises
+        * Go to demo playwright app and add a new task (getByRole, getByLabel, getByPlaceholder, getByTestId, getByTitle, getByText)
+        * Filtering locators (by text, by child/descendant)
 * Day 4
     * Assertions
-    * Exercise by changing the assertions
+    * Exercise 
+        * Add item to todo list and assert if one item present
+        * Sauce demo: Login and check if page url or page title changed. 
 * Day 5
     * Tracing and Traceviewer
     * Fixtures (https://playwright.dev/docs/test-fixtures)
